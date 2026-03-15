@@ -2,7 +2,6 @@ import discord
 from discord.ext import commands
 
 import os
-
 TOKEN = os.getenv("MTQ4MjM0NTg0NzY5MjcyNjQxNA.GnFPkh.s1neu3mqSfI3s-JwzB3-tYkEF5H3yCC1v8RW6c")
 
 
