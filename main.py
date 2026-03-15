@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 
 import os
-TOKEN = os.getenv("")
+TOKEN = os.getenv("DISCORD_TOKEN")
 
 
 WATCH_USER_ID = 1447561484040146985
