@@ -1,7 +1,10 @@
 import discord
 from discord.ext import commands
 
-TOKEN = "MTQ4MjM0NTg0NzY5MjcyNjQxNA.G4aCci.cjIhbRfFwrKA7Z2SQ888JWtK2X8rLUkFFc7mNc"
+import os
+
+TOKEN = os.getenv("MTQ4MjM0NTg0NzY5MjcyNjQxNA.Gh7ypb.xvYNpnIRweL5BrQTsKDNroYisKaUYPFgL8tDLY")
+
 
 WATCH_USER_ID = 1447561484040146985
 SOURCE_CHANNEL_ID = 1403284630039433238
