@@ -3,7 +3,7 @@ from discord.ext import commands
 
 import os
 
-TOKEN = os.getenv("MTQ4MjM0NTg0NzY5MjcyNjQxNA.Gh7ypb.xvYNpnIRweL5BrQTsKDNroYisKaUYPFgL8tDLY")
+TOKEN = os.getenv("MTQ4MjM0NTg0NzY5MjcyNjQxNA.GnFPkh.s1neu3mqSfI3s-JwzB3-tYkEF5H3yCC1v8RW6c")
 
 
 WATCH_USER_ID = 1447561484040146985
